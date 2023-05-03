@@ -1,2 +1,3 @@
-# analises_exploratorias
-Repositório com o notebooks criados durante os estudos de análise exploratória de datasets
+# Análise Exploratória
+Notebooks do repositório : <br>
+* analise_duracao_filmes_netflix : <br>
